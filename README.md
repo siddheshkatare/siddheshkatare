@@ -1,6 +1,6 @@
 🚀 About Me:
 
-With a rich tapestry of 6 years in mobile app development, I am your go-to Flutter Developer. Specializing in crafting immersive experiences, I bring 4 years of expertise in Flutter app development.
+With a rich tapestry of 7 years in mobile app development, I am your go-to Flutter Developer. Specializing in crafting immersive experiences, I bring 5 years of expertise in Flutter app development.
 
 📱 What Sets Me Apart:
 
